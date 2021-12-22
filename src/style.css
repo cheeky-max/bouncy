@@ -1,0 +1,13 @@
+body
+{
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+    cursor: none;
+    user-select: none;
+}
+
+#gameSvg
+{
+    background-color: black;
+}
